@@ -56,8 +56,7 @@ using exploit-suggester -- https://github.com/mzet-/linux-exploit-suggester
 
 linux exploitation
 
-Kernel --- a comp program that controls almost everything in the system, and facilitates interactions between hardware and software components. It acts like a translator between cpu/memory/device and applications.
-
+Kernel --- a comp program that controls almost everything in the system, and facilitates interactions between hardware and software components. 
 uname -a
 
 -------------------
