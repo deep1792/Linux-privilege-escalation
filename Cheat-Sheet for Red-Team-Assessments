@@ -70,8 +70,6 @@ ls -la
 
 cat .bash_history
 
-<Payload all the things -- present on desktop>
-
 run linpeas.sh
 
 ---------------------
